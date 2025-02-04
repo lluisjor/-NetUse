@@ -28,6 +28,14 @@ a. Desconnecta una de les unitats per comanda
 
 ![image](https://github.com/user-attachments/assets/7fdaa1b4-44f0-4b51-bbb0-2226ae2fdc1d)
 
+4. Utilització de Credencials:
+a. Connecta el recurs a la lletra M: amb credencials d’un usuari.
+
+![image](https://github.com/user-attachments/assets/d1f5c98c-5a61-40fe-bf92-0b23874f2143)
+
+
+
+
 
 
 
