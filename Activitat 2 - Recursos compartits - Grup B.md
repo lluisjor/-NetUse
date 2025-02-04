@@ -25,4 +25,16 @@ Desconnecta la unitat.
 
 
 
+2 Utilitzant interfície gràfica
+Fes el mateix que a l'exercici 1.
+
+![image](https://github.com/user-attachments/assets/97d8070d-0a94-4836-b7b1-dedb15237501)
+
+![image](https://github.com/user-attachments/assets/e61c3be9-6dc2-4510-8f40-e46a9ac2f150)
+
+![image](https://github.com/user-attachments/assets/8e0f0314-9ac4-44c6-a3c1-a43b12936adb)
+![image](https://github.com/user-attachments/assets/5f609248-f24a-49de-9693-7510f542f557)
+
+
+
 
